@@ -18,10 +18,8 @@ A lightweight FastAPI backend to manage **products** and **orders**, built using
 
 ```
 .
-├── main.py
-│          # Main FastAPI application
+├── main.py # Main FastAPI application
 ├── requirements.txt    # Python dependencies
-├── vercel.json         # Vercel config for serverless
 └── README.md
 ```
 
